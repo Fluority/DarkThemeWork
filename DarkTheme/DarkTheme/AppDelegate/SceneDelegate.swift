@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  DarkTheme
 //
-//  Created by liene.krista.neimane on 04/04/2023.
+//  Created by Arkadijs Makarenko on 03/04/2023.
 //
 
 import UIKit
